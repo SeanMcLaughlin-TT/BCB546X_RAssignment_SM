@@ -1,0 +1,11 @@
+title: "R_Assignment Review"
+author: "Kavi R. Acharya"
+date: "March 19, 2021"
+output:
+  word_document: default
+  pdf_document: default
+  html_document: default
+  
+The files look neat and well organized. 
+In case of merging, I transposed the snp data first separately for both maize and teosinte. Then, the files were merged on the basis of SNP_ID. I hope that helps. 
+Past 2 seems very neat too. 
